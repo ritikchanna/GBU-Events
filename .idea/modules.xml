@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/GBUEvents.iml" filepath="$PROJECT_DIR$/GBUEvents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GBU-Events.iml" filepath="$PROJECT_DIR$/GBU-Events.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
